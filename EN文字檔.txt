@@ -1,0 +1,293 @@
+Lin's webside
+Lin's one-page responsive web design (RWD) resume.
+one-page RWD resume
+Personal website.
+Welcome to Lin's personal website. Graduated from the Department of Information Management at National University of Kaohsiung, seeking opportunities in front-end development and cybersecurity-related industries.
+
+---
+
+Home
+Skills
+Work Experience
+Portfolio
+University
+National Competition Achievements
+Extra activities
+Biography
+Chinese
+<li class="nav-item">
+				<a class="nav-link" href="index.html">中文</a>
+			</li>
+			
+---
+
+林湘縈，Lin Shiang Ying，1999
+Taiwan, Taoyuan City
+NUK｜Department of Information Management&emsp;Graduated<br />
+						National Central University NCU | Library Information Division&emsp;Currently employed<br />
+
+---
+<h3>
+							<div id="intro">Hi 😊, I'm Lin. Welcome to my personal website and resume.</div> <br/>
+
+							✓ Objective and logical in observations, adept at listing and solving problems. <br/>
+							✓ Continuous learner, dedicated to self-improvement. <br/>
+							✓ Curious about society, enjoys exploring diverse topics. <br/>
+							
+							Responsible, unafraid of challenges, committed to becoming a better version of myself every day 💪. <br/>
+							<h2><span class="badge bg-secondary">InformationTechnology</span>&ensp;
+								<span class="badge bg-secondary">FrontEnd</span>&ensp;
+								<span class="badge bg-secondary">Cybersecurity</span>&ensp;
+								<span class="badge bg-secondary">SocialMedia</span>&ensp;
+							</h2>
+
+						</h3><br/>
+						<h4 class="major">
+							Everyone is running their own race, in their own time. Don’t envy them or mock them. <br/>
+							Eeveryone in this world works based on their own time zone. <br/>
+							You are very much on time, and in your TIME ZONE destiny set up for you. <br/>
+							——Author: Anonymous (American)
+							<br/>
+							
+						</h4>	
+
+---
+Skills
+
+Programming Languages
+<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+							<h3 class="fa-brands fa-microsoft">&emsp;Office</h3>
+									<li>WORD（MOCC Certifications）</li>
+									<li>PowerPoint（MOCC Certifications）</li>
+									<li>EXCEL（MOCC Certifications）</li>
+									<li>Outlook</li>
+									<li>Power BI</li>
+									<!--<li>//Access</li>--><br/>
+						</div>
+
+SNS&Video editing
+<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+						<h3 class="fa-solid fa-photo-film">&emsp;SNS & Video Experience</h3>
+						<div class="row">
+							<div class="col-6 col-12-xsmall skill">
+								<li>FaceBook</li>
+								<li>Instagram</li>
+								<li>YouTube</li>
+							</div>
+							<div class="col-6 col-12-xsmall skill">
+								<li>PhotoShop</li>
+								<li>剪映</li>
+								<li>PowerDirector</li>
+								<li>Premiere (Currently learning)</li>
+								<li>AE (Currently learning)</li><br/>
+							</div>
+						</div>
+					</div>
+
+<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+							<h3 class="fas fa-language">&emsp;Languages</h3> 
+								<li>English: TOEIC 620</li>
+								<li>Japanese: N4 (In progress)</li> 
+								<li>Taiwanese: Basic</li>
+						</div>
+						
+<div class="col-6 col-12-xsmall skill" data-aos="zoom-in">
+							<h3 class="fa-solid fa-id-card">&emsp;Driver's License</h3> 
+									<li>Motorcycle</li>
+									<li>Car</li> 
+						</div>
+
+---
+Work Experience
+
+<div class="timeline-text">
+    <h3>National Central University｜Library Information Department Full-time Assistant</h3>
+    <h5 class="colorful">2023.03&ensp;~&ensp;Now</h5> 
+    <h4>Responsible for the planning and management of the entire library information system,
+        management of the entire server and system, planning and management of multimedia on-demand system, and network management.<br/><br/>
+        ・Assisted in Taiwan Library Consortium system management and operation-related matters.<br/>
+        ・Assisted in the development and maintenance of library system and file conversion interface related programs.<br/>
+        ・WebOffice webpage design and maintenance.<br/>
+        ・Management and maintenance of library scrolling headlines.<br/>
+        ・Assisted in the maintenance of ISMS asset management system.<br/>
+        ・Support for multimedia file design and production.<br/>
+        ・Management and maintenance of library office computers and networks.<br/>
+        ・Promotion, planning, and management maintenance of classroom computers.<br/>
+        ・Management and maintenance of National Digital Library search area and self-study center computers.<br/>
+        ・Support for library administrative and other assigned tasks.
+    </h4>
+</div>
+
+<div class="timeline-text">
+    <h3>Department of Rapid Transit Systems, Taoyuan｜Administrative Assistant</h3>
+    <h5>2022.11~2023.03</h5>
+    <h4>Responsible for clerical, file management, document management, administrative, seal, cashier, procurement, property management, comprehensive business, and matters not belonging to other departments or offices.<br/><br/>
+        ・Assisted in various MRT engineering construction projects in Taoyuan City.<br/>
+        ・Administrative work for engineering file organization.<br/>
+        ・Document transmission registration and receiving and sending business.<br/>
+        ・Assisted in the document sending and receiving of various departments and bureaus of the MRT Engineering Bureau and government departments.
+    </h4>
+</div>
+
+<div class="timeline-text">
+	<h3>The Liberty Times｜Planning Department</h3>
+	<h5>2021.09~2021.12</h5>
+	<h4>Printed newspapers and online media. <br/><br/>
+		・Analyze customer needs and product characteristics, and write advertising copy.<br/>
+		・Communicate with customers and assist in placing advertisements.<br/>
+		・Expand new customers and increase company customer base.<br/>
+		・Planning and writing government tender documents, and cooperating with government agencies.
+	</h4>
+</div>
+
+<div class="timeline-text">
+    <h3>Ministry of Education Digital Companions for Learning｜Digital University Companion</h3>
+    <h5>2021.03~2021.06</h5> 
+    <h4>The core value of "life accompanies life, and life teaches life," participating in training, workshops, lesson preparation, and engaging in online real-time companionship and learning with college students.<br/><br/>
+        ・Guidance for elementary and middle school students in rural areas.<br/>
+        ・Accompanying the spiritual growth of elementary school companions.<br/>
+        ・Teaching mathematics and English courses to sixth-grade students.
+    </h4>
+</div>
+
+<div class="timeline-text">
+    <h3>Department of Land Administration, Taoyuan｜Land Information Section Intern</h3>
+    <h5>2020.07~2020.08</h5>
+    <h4>Handling policy formulation and promotion of land administration information in Taoyuan City. <br/><br/>
+        ・Implementation plan for file management and website management in 2020.<br/>
+        ・Production of land administration promotional animations.<br/>
+        ・Document processing.<br/>
+        ・Completion of ad hoc assignments.
+    </h4>
+</div>
+
+---
+
+				<!-- Works -->
+				<section id="two"><!--poptrox-->
+					<div class="section_heading text-center">
+						<h1 class="title_content fa-solid fa-wand-magic-sparkles">&emsp;Portfolio</h1>
+					</div>
+					<div class="row">
+						<article class="col-6 col-12-xsmall work-item" data-aos="zoom-in">
+							<a href="images/內文圖照/作品集_高雄水資源整合系統.jpg" class="image fit thumb"><img src="images/內文圖照/作品集_畢業專題封面.jpg" alt="作品集_畢業專題封面" /></a>
+							<h3>Graduation Project</h3>
+							<p>RWD webpage presenting visualization of Kaohsiung water resources, utilizing Vue, Node.js, MySQL, Python, and Unity technologies.</p>
+							<ul class="actions">
+								<li><a href="https://shining09.github.io/Kaohsiung_Water_Website/#/" target="_blank" class="button">Learn More</a>
+								<a href="https://youtu.be/aKpusBCpJLg?si=stmh7N-x8v8eSARp" target="_blank" class="button buttonvedio">Introduction video</a></li>
+						</article>
+						<article class="col-6 col-12-xsmall work-item" data-aos="zoom-in">
+							<a href="images/內文圖照/作品集_Wix_設計師.jpg" class="image fit thumb"><img src="images/內文圖照/作品集_WIX封面.jpg" alt="作品集_WIX封面" /></a>
+							<h3>Wix</h3>
+							<p>Creating a personal designer website using Wix.<br/>(Papaya Tutorial)</p>
+							<ul class="actions">
+								<li><a href="https://shiningwork09.wixsite.com/my-site-1" target="_blank" class="button">Learn More</a></li>
+							</ul>
+						</article>
+						<article class="col-6 col-12-xsmall work-item" data-aos="zoom-in">
+							<a href="images/內文圖照/作品集_GoogleSite_Finne.jpg" class="image fit thumb"><img src="images/內文圖照/作品集_GoogleSite封面.jpg" alt="作品集_GoogleSite封面" /></a>
+							<h3>Google Site</h3>
+							<p>Designing a virtual fragrance product website using Google Sites.<br/>(Papaya Tutorial)</p>
+							<ul class="actions">
+								<li><a href="https://sites.google.com/view/shining-finne" target="_blank" class="button">Learn More</a></li>
+							</ul>
+						</article>
+						<article class="col-6 col-12-xsmall work-item" data-aos="zoom-in">
+							<a href="images/內文圖照/作品集_Figma_美術館.jpg" class="image fit thumb"><img src="images/內文圖照/作品集_Figma封面.jpg" alt="作品集_Figma封面" /></a>
+							<h3>Figma</h3>
+							<p>Designing a UI for a virtual art gallery mobile page.<br/>(Papaya Tutorial)</p>
+							<ul class="actions">
+								<li><a href="https://reurl.cc/v0GX7l" target="_blank" class="button">Learn More</a></li>
+							</ul>
+						</article> 
+					</div> 
+				</section>
+				<!-- Works -->
+
+---
+
+National Competition Achievements
+
+<h2>2021 Digital Game Innovation and Creativity Competition</h2>
+
+<div class="col-6 col-12-xsmall accordiontext">
+    <p>Awarded as the outstanding work in Group A. Presented innovative and creative ideas for digital game planning, market marketing, and technical development.</p>
+    <br/>
+    <p><strong>【Achievements】</strong></p>
+    <p>How to stand out in a variety of game advertisements, considering marketing costs, enhancing player retention among existing users, attracting new players, and building trust and loyalty in the game brand to achieve long-term benefits.</p>
+</div>
+-
+<h2>2020 National Collegiate Ethics Case Analysis Competition</h2>
+<div class="col-6 col-12-xsmall accordiontext">
+											<p>Awarded as the finalist in the competition. Cultivated awareness and sensitivity in ethical decision-making, reflected on the impact of technological development on ethics and society, and explored corresponding approaches.</p>
+											<br/>
+											<p><strong>【Achievements】</strong></p>
+											<p>There are no absolute right or wrong answers in ethics; it's a matter of different perspectives. Choosing the most beneficial and morally upright solution, and learning to be inclusive and respectful from different angles, is essential.</p>
+										</div>
+-
+<h2>2020 National Collegiate Information Application Service Innovation Competition</h2>
+
+<div class="col-6 col-12-xsmall accordiontext">
+											<p>Advanced to the finals. This nationally renowned competition, with a long history, addresses the trends in technological development, covering topics such as information security, IoT, cloud services, and AR/VR applications.</p>
+											<br/>
+											<p>【Achievements】</p>
+											<p>Competing against peers from across the country and beyond, witnessing diverse creative ideas was an enriching experience.</p>
+										</div>
+-
+<h2>2020 National Kaohsiung University Enrollment Data Analysis Competition</h2>
+<div class="col-6 col-12-xsmall accordiontext">
+											<p>Awarded first place in the entire school. Encouraged students to use their learning experiences in conjunction with practical enrollment data to identify issues or ideas related to enrollment and provide policies for the school's future decision-making based on data.</p>
+											<br/>
+											<p>【Achievements】</p>
+											<p>Different departments have different ways of looking at data. How to utilize existing data to create maximum value.</p>
+										</div>									
+-
+<h2>2019 Campus Social Business Competition</h2>
+<div class="col-6 col-12-xsmall accordiontext">
+											<p>Awarded the Product Story Award, Bronze Prize. Collaborated with NPO organizations and related social enterprises to market their products. Utilized various marketing techniques through social media to sell products, attracting consumer attention to both the store and social issues, leading to tangible purchases.</p>
+											<br/>
+											<p>【Achievements】
+											Learned how to attract consumer attention to both the store and social issues, generating tangible purchases and resonance. Actively engaged with social media platforms, focusing not only on selling products but also on conveying ideas.
+										</div>
+
+---
+
+Extra activities
+
+<h3>&ensp;104 TOP Academia&ensp;</h3>
+<p>104 Career Academy collaborates with National Kaohsiung University to establish the "TOP Enterprise Talent Cultivation Program," inviting industry speakers to campus to bridge the gap between academia and industry.</p>
+
+<h3>&ensp;University Leadership Activities&ensp;</h3>
+<p>IMP is a community service-oriented activity that serves neighborhoods near the university, teaching primary school students and elders about information software applications.</p>
+
+
+<h3>&ensp;Civil IoT Data Application Competition&ensp;</h3>
+<p>Targeting "Air Quality," "Earthquakes," "Water Resources," and "Disaster Prevention and Relief," applying artificial intelligence IoT technology to establish various smart living service systems, assisting governments and citizens in facing the challenges brought about by environmental changes together.</p>
+
+<h3>&ensp;Service Learning&ensp;</h3>
+<p>The Houjin River, located near National University of Kaohsiung, collaborates with local secondary schools to understand and cultivate local cultural and historical heritage.</p>
+
+<h3>&ensp;IMP Activity&ensp;</h3>
+<p>Neighborhood event appreciation certificate.</p>
+
+<h3>&ensp;711 Little Manager&ensp;</h3>
+<p>Leading kindergarten and elementary school students to participate in 711 store manager community activities, teaching children the concept of environmental sustainability through games.</p>
+
+---
+Lin Shiang Ying
+---
+
+Adobe圖案參考
+https://codepen.io/ravisuhag/pen/nRWWpj
+https://www.flaticon.com/free-icons/pr
+
+AOS-Animate 套件運用
+https://tinyurl.com/29kmjohr
+
+Boostrap navbar 補充
+https://tinyurl.com/2dl2pgef
+
+CSS字型嵌入方式
+https://www.iware.com.tw/qa-508.html
+
